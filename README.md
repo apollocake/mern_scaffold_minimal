@@ -1,4 +1,4 @@
-# This is a minimal MERN stack application
+# This is a simple Todo list MERN stack application
 
 ## Dependencies
 * mongoDB installed and running
